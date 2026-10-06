@@ -143,8 +143,4 @@ ID Summation = 33681685
 
 這次專題讓我把課堂上學到的暫存器、堆疊、分支與記憶體存取，實際用在一個完整的程式中。透過 C 與 ARM 組合語言的整合，也更清楚函式之間如何傳遞參數，以及計算結果如何寫回記憶體並顯示在畫面上。
 
-## 專題報告
 
-[查看期末專題報告](組合語言與嵌入式系統Final%20Project.pdf)
-
-[查看 GitHub 原始碼](https://github.com/shanny11shanny14-sys/Assembly-Language-Final)
